@@ -440,7 +440,7 @@ Halaman khusus untuk laptop bersama di kantor (`/kiosk.html`):
 - Menampilkan daftar karyawan
 - Karyawan pilih nama dan absen langsung
 
-![Menu_Absen](images/kiosk.png)
+![Menu_Absen](images/Kiosk.png)
 
 #### Status Kehadiran
 
