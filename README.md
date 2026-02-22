@@ -434,9 +434,13 @@ Karyawan bisa absen sendiri menggunakan HP:
 #### 6.2.3 Mode Kiosk
 
 Halaman khusus untuk laptop bersama di kantor (`/kiosk.html`):
+(silahkan buka di pengaturan) dan klik "Buka Kiosk"
+![Absensi Karyawan](images/absensi_karyawan.jpg)
 - Tidak perlu login admin
 - Menampilkan daftar karyawan
 - Karyawan pilih nama dan absen langsung
+
+![Menu_Absen](images/kiosk.png)
 
 #### Status Kehadiran
 
